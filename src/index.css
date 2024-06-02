@@ -162,8 +162,8 @@ form {
     margin-bottom: 20px;
   }
   img {
-    height: 256px;
-    width: 256px;
+    height: 75%;
+    width: 75%;
   }
 }
 
@@ -188,7 +188,7 @@ form {
     margin-bottom: 10px;
   }
   img {
-    height: 128px;
-    width: 128px;
+    height: 75%;
+    width: 75%;
   }
 }
