@@ -172,9 +172,9 @@ form {
     padding: 10px;
   }
   .searchNav {
-    flex-direction: column;
+    /* flex-direction: column; */
     gap: 20px;
-    padding: 10px;
+    padding: 20px;
   }
   input {
     width: 90vw;
