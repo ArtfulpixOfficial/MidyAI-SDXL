@@ -6,7 +6,7 @@ export function Message() {
         MIDYAI SDXL
       </h1>
       <h2 className="text-xl font-semibold text-gray-600 dark:text-gray-400">
-        Real-Time Text-to-Image Generation
+        Text-to-Image Creation with a Single Prompt
       </h2>
     </section>
   );
